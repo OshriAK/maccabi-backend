@@ -1,27 +1,12 @@
 [
   {
-    "name": "Oshri",
-    "email": "oshri@gmail.com",
-    "age": "25"
-  },
-  {
     "name": "daniel",
     "email": "daniel@gmail.com",
     "age": "26"
   },
   {
-    "name": "Riki",
+    "name": "riki",
     "email": "riki@gmail.com",
     "age": "28"
-  },
-  {
-    "name": "atar",
-    "email": "atar@gmail.com",
-    "age": "31"
-  },
-  {
-    "name": "liron",
-    "email": "liron@liron.com",
-    "age": "29"
   }
 ]
